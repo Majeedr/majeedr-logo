@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="majeedr_blue_en.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5226415"
+     inkscape:cx="16.901547"
+     inkscape:cy="66.934053"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36216)">
+    <path
+       style="fill:#164161;fill-rule:evenodd;stroke:none;stroke-width:1"
+       d="M 100 0 C 44.771526 0 0 44.77153 0 100 C 0 155.22846 44.771526 200 100 200 C 155.22848 200 200 155.22846 200 100 C 200 44.77153 155.22848 0 100 0 z M 57.748047 47.578125 C 62.085357 47.578125 64.629305 50.121201 67.171875 52.962891 L 100.07422 97.382812 L 134.17578 51.318359 C 139.11135 45.186289 151.22461 47.578638 151.22461 57.898438 L 151.22461 142.10156 C 151.22461 148.68234 147.03795 152.42188 142.25195 152.42188 C 136.8677 152.42188 132.67969 148.68234 132.67969 142.10156 L 132.67969 86.763672 L 107.85156 118.17188 C 102.46731 124.75262 95.738304 124.75262 90.802734 118.17188 L 68.517578 86.763672 L 68.517578 142.10156 C 68.517578 148.68234 63.132297 152.42188 57.748047 152.42188 C 52.962047 152.42188 48.775391 148.68234 48.775391 142.10156 L 48.775391 57.898438 C 48.775391 50.121188 55.355047 47.578125 57.748047 47.578125 z "
+       transform="translate(0,852.36216)"
+       id="Majeedr" />
+  </g>
+</svg>
