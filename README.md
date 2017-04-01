@@ -1,4 +1,5 @@
 # Majeedr Logo
+![Majeedr En](https://raw.githubusercontent.com/Majeedr/majeedr-logo/master/dist/majeedr_blue_en_200x200.png)
 
 Several versions of majeedr logos, made by using Inkscape.
 
